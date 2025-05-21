@@ -1,0 +1,2 @@
+Prefix plugins/SAbDab/example/
+Plugin SAbDab inputfile parameters.txt outputfile .

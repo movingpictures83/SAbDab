@@ -1,0 +1,2 @@
+container	/biorg/data/env/emomis.sif
+input_dir	demo_forward/
